@@ -1,0 +1,8 @@
+Backup/
+Debug/
+Statistical Tests Suite/Debug/
+UpgradeLog.htm
+*sdf
+*.suo
+*.filters
+*.user
